@@ -1,0 +1,14 @@
+C:\Users\Mahonri\source\repos\intervalociclo\intervalociclo\obj\Debug\intervalociclo.csprojAssemblyReference.cache
+C:\Users\Mahonri\source\repos\intervalociclo\intervalociclo\obj\Debug\intervalociclo.csproj.CoreCompileInputs.cache
+C:\Users\Mahonri\source\repos\intervalociclo\intervalociclo\bin\Debug\intervalociclo.exe.config
+C:\Users\Mahonri\source\repos\intervalociclo\intervalociclo\bin\Debug\intervalociclo.exe
+C:\Users\Mahonri\source\repos\intervalociclo\intervalociclo\bin\Debug\intervalociclo.pdb
+C:\Users\Mahonri\source\repos\intervalociclo\intervalociclo\obj\Debug\intervalociclo.exe
+C:\Users\Mahonri\source\repos\intervalociclo\intervalociclo\obj\Debug\intervalociclo.pdb
+C:\Users\chumo\Desktop\intervalociclo\intervalociclo\bin\Debug\intervalociclo.exe.config
+C:\Users\chumo\Desktop\intervalociclo\intervalociclo\bin\Debug\intervalociclo.exe
+C:\Users\chumo\Desktop\intervalociclo\intervalociclo\bin\Debug\intervalociclo.pdb
+C:\Users\chumo\Desktop\intervalociclo\intervalociclo\obj\Debug\intervalociclo.csprojAssemblyReference.cache
+C:\Users\chumo\Desktop\intervalociclo\intervalociclo\obj\Debug\intervalociclo.csproj.CoreCompileInputs.cache
+C:\Users\chumo\Desktop\intervalociclo\intervalociclo\obj\Debug\intervalociclo.exe
+C:\Users\chumo\Desktop\intervalociclo\intervalociclo\obj\Debug\intervalociclo.pdb
